@@ -35,14 +35,14 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["Bug Hunter", "Web Developer", "Security Researcher", " Vulnerability Assessment and Penetration Tester "," Web Application Penetration Tester ", "Ethical Hacker ","Gamer","CTF Player"],
+        strings: ["Bug Bounty Hunter", "Security Researcher", " Vulnerability Assessment and Penetration Tester "," Web Application Penetration Tester ", "Ethical Hacker ","Gamer","CTF Player"],
         typeSpeed: 50,
         backSpeed: 20,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Bug Hunter", "Web Developer", "Security Researcher", " Vulnerability Assessment and Penetration Tester "," Web Application Penetration Tester ", "Ethical Hacker ","Gamer","CTF Player"],
+        strings: ["Bug Bounty Hunter", "Security Researcher", " Vulnerability Assessment and Penetration Tester "," Web Application Penetration Tester ", "Ethical Hacker ","Gamer","CTF Player"],
         typeSpeed: 50,
         backSpeed: 20,
         loop: true
